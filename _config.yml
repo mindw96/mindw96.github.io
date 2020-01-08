@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "인공지능 학부 연구생 블로그"
 title_separator          : "-"
-subtitle                 : "한국교통대학교 소프트웨어학과 AMI 학부 연구생"
+subtitle                 : "한국교통대학교 소프트웨어학과 AMI.Lab 학부 연구생"
 name                     : "Min_DongWook"
-description              : "한국교통대학교 소프트웨어학과 AMI 학부 연구생."
+description              : "한국교통대학교 소프트웨어학과 AMI.Lab 학부 연구생."
 url                      : "https://mindw96.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
