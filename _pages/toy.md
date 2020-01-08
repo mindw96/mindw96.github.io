@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: toy
 ---
 
-개인적으로 공부한 내용들 입니다.
+개인적으로 공부하거나 진행한 ToyProject 입니다.

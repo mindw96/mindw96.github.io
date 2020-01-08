@@ -1,6 +1,6 @@
 ---
 title: "AMI.Lab"
-permalink: /categories/AMI_Lab/
+permalink: /categories/lab/
 layout: category
 author_profile: true
 taxonomy: AMI

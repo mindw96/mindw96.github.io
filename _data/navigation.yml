@@ -5,6 +5,8 @@ main:
   - title: "Category"
     url: /categories/
   - title: "AMI.Lab"
-    url: /categories/AMI_Lab/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /categories/lab/
+  - title: "Toy Project"
+    url: /categories/toy/
+  - title: "CLUB"
+    url: /categories/club/
